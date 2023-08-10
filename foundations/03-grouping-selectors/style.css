@@ -1,0 +1,14 @@
+.button1,
+.button2 {
+    border-color: grey;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.button1 {
+    background-color: black;
+    color: white;
+}
+
+.button2 {
+    background-color: yellow;
+}
